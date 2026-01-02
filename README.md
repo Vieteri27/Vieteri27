@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Veeti, currently a Computer Science student at University of Jyväskylä.
+I'm Veeti, currently a Computer Science student at the University of Jyväskylä.
 My focus is on Software Development and I'm also minoring in Mathematics and Economics.
 
 ### Languages and tools:
