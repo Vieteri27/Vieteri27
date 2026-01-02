@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm Veeti, currently a Computer Science student at University of Jyväskylä.
-My focus in on Software Development and I'm also minoring in Mathematics and Economics.
+My focus is on Software Development and I'm also minoring in Mathematics and Economics.
 
 ### Languages and tools:
 <div>
@@ -12,6 +12,14 @@ My focus in on Software Development and I'm also minoring in Mathematics and Eco
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
 </div>
+
+### Most recent project:
+[Here](https://github.com/ponse-app/ponse) you can view our project Ponse!<br/>
+Ponse is an app that lets you compare postal code area and municipality statistics in Finland.
+
+### Contact:
+- Email: veeti.kataja@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/veeti-kataja-19b3b8243/)
 
 <!--
 **Vieteri27/Vieteri27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
